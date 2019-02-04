@@ -3,7 +3,6 @@ in the /example/
 
 run command python -m http.server
 
-or run command python3 -m http.server
 
 then in the main folder
 
