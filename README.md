@@ -1,10 +1,15 @@
 # intern_web_crawler
 in the /example/
+
 run command python -m http.server
+
 or run command python3 -m http.server
 
 then in the main folder
+
+
 pip install requirements.txt
+
 python solution.py
 
 
